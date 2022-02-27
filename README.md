@@ -6,7 +6,7 @@
 
 <h2>
 
-` 💌 Visit ` - https://nirajRoy.netlify.app
+` 💌 Visit ` - https://bit.ly/3M4Mtn2
 
 - 🔭 I’m currently working on an ` AI based ChatBot `
 - 🌱 I’m currently learning ` JavaScript & Python `
