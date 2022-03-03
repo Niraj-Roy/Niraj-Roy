@@ -1,7 +1,7 @@
 <div align="center" id="head">
 <img src="./IMG_20220303_121226.jpg"> </div>
 <div id="top">
-<p align="center"><img src="https://github.com/Niraj-Roy/Niraj-Roy/blob/main/39998-web-development.gif"=alt"bt">
+<p align="center"><img src="./46207-programmer-1.gif"=alt"bt">
 </div>
 <br>
 <hr>
