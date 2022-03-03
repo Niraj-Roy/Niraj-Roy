@@ -2,11 +2,10 @@
 <img src="./IMG_20220303_121226.jpg"> </div>
 <div id="top">
 <p align="center"><img src="./46207-programmer-1.gif"=alt"bt">
-</div>
-<br>
-<hr>
+</p>
 
-# Hi there 🙋🏻‍♂️ Myself  Niraj Roy 
+
+# Hi there 🙋🏻‍♂️ Myself  Niraj 
 
 <h2>
 
@@ -37,9 +36,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Niraj-Roy&color=brightgreen)
 
+<img src="./untitled-1.gif">
+
 <p align="center">
   <i>Let's connect and chat! Feel free to reach me anytime ! 🥰</i>
-
  <br>
 <p align="center">
     <a href="https://twitter.com/royniraj404" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
@@ -53,4 +53,6 @@
 </p>
 
 
-<p align="right"> <a href="#top"> <img src="./giphy (1).gif" height= 40px></a> </p>
+
+
+<p align="center"> <a href="#top"> <img src="./giphy (1).gif" height= 50px></a> </p>
