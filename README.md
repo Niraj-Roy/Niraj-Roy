@@ -1,4 +1,9 @@
+<div align="center" id="head">
+<img src="./images (5).png" height=80px>
+
+<div id="top">
 <p align="center"><img src="https://github.com/Niraj-Roy/Niraj-Roy/blob/main/39998-web-development.gif"=alt"bt">
+</div>
 <br>
 <hr>
 
@@ -47,3 +52,6 @@
 
   
 </p>
+
+
+<p align="right"> <a href="#top"> <img src="./giphy (1).gif" height= 40px></a> </p>
