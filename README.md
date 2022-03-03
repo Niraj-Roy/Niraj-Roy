@@ -28,7 +28,7 @@
 
 
 <div align="center"> 
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Niraj-Roy&theme=react-dark">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Nraj-Roy&theme=react-dark">
 </div>
 
 <br>
