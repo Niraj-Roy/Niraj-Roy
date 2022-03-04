@@ -36,6 +36,12 @@
 
 ![](https://komarev.com/ghpvc/?username=Niraj-Roy&color=brightgreen)
 
+ <h2> 🌟 Stargazers
+
+[![Stargazers repo roster for @Niraj-Roy/Niraj-Roy](https://reporoster.com/stars/Niraj-Roy/Niraj-Roy)](https://github.com/Niraj-Roy/Niraj-Roy/stargazers)
+</h2>
+
+
 <img src="./untitled-1.gif">
 
 <p align="center">
