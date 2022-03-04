@@ -1,6 +1,6 @@
-<div align="center" id="head">
+<div align="center" id="top">
 <img src="./IMG_20220303_121226.jpg"> </div>
-<div id="top">
+<div id="gif">
 <p align="center"><img src="./46207-programmer-1.gif"=alt"bt">
 </p>
 
